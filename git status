@@ -1,0 +1,23 @@
+[33mcommit adbe201d556a227500d6dd7df2baf7431aef430e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Joana Scheer Loayza <joana.loayza@zup.com.br>
+Date:   Mon Jan 31 17:09:50 2022 -0300
+
+    Renomeando curso de integração contínua
+
+[33mcommit 72840a93de057a81de65e1fc71cba0177514c845[m
+Author: joanascheer <joana.loayza@zup.com.br>
+Date:   Mon Jan 31 16:55:28 2022 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 97e8fb58e962a01cb20b24e4ed10f6064cf62593[m
+Author: joanascheer <joana.loayza@zup.com.br>
+Date:   Mon Jan 31 16:50:04 2022 -0300
+
+    Acento adicionado em integração contínua
+
+[33mcommit fe280f1d86c0b310cd05b26a9cdc31c0f89e88f3[m
+Author: joanascheer <joana.loayza@zup.com.br>
+Date:   Mon Jan 31 16:48:46 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
